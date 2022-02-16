@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-460-medieval-literature-legends-of-arthur-fall-2013/f1225b1f7a863dd868c1a660ed9fe107_21L-460_classroom-1.jpg
+file: /media/courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/f1225b1f7a863dd868c1a660ed9fe107_21L-460_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 21L-460_classroom-1.jpg
 uid: f1225b1f-7a86-3dd8-68c1-a660ed9fe107

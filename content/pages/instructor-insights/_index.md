@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c28947bb-843d-3bd0-46ea-771e5a4169e8
 ---
@@ -52,20 +54,6 @@ None
 ### Offered
 
 Usually every other semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo shows the classroom with a long, oval seminar table surrounded by chairs and chalkboards on the walls.]({{< resource_file f1225b1f-7a86-3dd8-68c1-a660ed9fe107 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This room seats a maximum of 20 students around a central table with an LCD projector and several chalkboards on the surrounding walls.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

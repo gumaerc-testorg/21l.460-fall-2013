@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information related to the analysis report for
   the final project by Rachael Aptowitz. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-460-medieval-literature-legends-of-arthur-fall-2013/aa056a8acc54d148b9524035cf942bcd_MIT21L_460F13_Le_Morte_Anl.pdf
+file: /media/courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/aa056a8acc54d148b9524035cf942bcd_MIT21L_460F13_Le_Morte_Anl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21L.460 S14 student project: Le Morte Analysis Report'
 uid: aa056a8a-cc54-d148-b952-4035cf942bcd
