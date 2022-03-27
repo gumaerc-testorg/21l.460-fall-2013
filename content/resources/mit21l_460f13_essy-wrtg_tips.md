@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 41940b51-b1ee-1b4d-4ab6-f59b79884979
 resourcetype: Document
 title: Old English compedium of essay writing tips handout
 uid: b549ba3c-d43c-ab87-b2f5-ff71b0feeef9
