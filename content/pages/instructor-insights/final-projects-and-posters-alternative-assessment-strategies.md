@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Dr. Bahr describes the final project for 21L.460 Medieval
+  Literature: Legends of Arthur Fall 2013.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

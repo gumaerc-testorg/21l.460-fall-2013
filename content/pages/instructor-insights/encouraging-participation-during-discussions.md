@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Bahr describes how he led productive discussions
+  in 21L.460 Medieval Literature: Legends of Arthur Fall 2013 by encouraging all students
+  to participate.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
