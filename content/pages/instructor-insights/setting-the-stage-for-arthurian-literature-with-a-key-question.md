@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'In this section, Dr. Bahr describes how he set up 21L.460 Medieval Literature:
+  Legends of Arthur Fall 2013 around a central question.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c28947bb-843d-3bd0-46ea-771e5a4169e8
 title: Setting the Stage for Arthurian Literature with a Key Question
 uid: a05273e3-3660-924b-a1d8-bbe62e341f4d

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'In this section, Dr. Bahr describes how he led productive discussions
+  in 21L.460 Medieval Literature: Legends of Arthur Fall 2013 by encouraging all students
+  to participate.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c28947bb-843d-3bd0-46ea-771e5a4169e8
 title: Encouraging Participation During Discussions
 uid: 8aeee868-22f6-55e3-6374-ba886fd0bf95

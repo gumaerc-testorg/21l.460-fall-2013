@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides citations for the course textbooks and the schedule
+  of readings by session of topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: df4d2438-9dc4-7b4c-26d9-1eed4aa4ff98
 ---
 
 \[RA\] = Wilhelm, James J., ed. _The Romance of Arthur: An Anthology of Medieval Texts in Translation_. Vol. 1267. Garland, 1994. ISBN: 9780815315117. \[Preview with [Google Books](http://books.google.com/books?id=iN6dg0D0gu0C&pg=PAfrontcover)\]
 
-\[CT\] =  De Troyes, Chrétien. [_Four Arthurian Romances_ (12th century)](http://www.gutenberg.org/files/831/831-h/831-h.htm#link2H_4_0005). SMK Books, 2012. ISBN: 9781617205835. \[Preview with [Google Books](http://books.google.com/books?id=waFGMOsQi98C&pg=PAfrontcover)\]
+\[CT\] =  De Troyes, Chrétien. [_Four Arthurian Romances_ (12{{< sup "th" >}} century)](http://www.gutenberg.org/files/831/831-h/831-h.htm#link2H_4_0005). SMK Books, 2012. ISBN: 9781617205835. \[Preview with [Google Books](http://books.google.com/books?id=waFGMOsQi98C&pg=PAfrontcover)\]
 
 \[Perc\] = ———. _Arthurian Romances_. Penguin Classics, 1991. ISBN: 9780140445213. \[Preview with [Google Books](http://books.google.com/books?id=KtvzObSSUugC&pg=PAfrontcover)\]
 

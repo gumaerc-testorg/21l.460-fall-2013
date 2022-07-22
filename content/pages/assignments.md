@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the written assignments and final
+  project assignment for the course, and sample student final projects.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 41940b51-b1ee-1b4d-4ab6-f59b79884979
 ---
@@ -12,7 +17,7 @@ You will do two written projects for this class: one relatively standard literar
 Written Assignment 1
 --------------------
 
-See [prof's Bahr's compendium of essay writing tips (PDF)]({{< baseurl >}}/resources/mit21l_460f13_essy-wrtg_tips) for information about this close-reading paper. 
+See {{% resource_link b549ba3c-d43c-ab87-b2f5-ff71b0feeef9 "prof's Bahr's compendium of essay writing tips (PDF)" %}} for information about this close-reading paper. 
 
 Final Project Assignment
 ------------------------
@@ -26,6 +31,6 @@ Sample Student Final Projects
 
 Two of the students in the class have provided their final projects for publication on OCW and they are presented here with their permission.
 
-Malory Storyboard Project by Rachael Aptowitz: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Le Morte Storyboard (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21l_460f13_storyboard), [Le Morte Storyboard Plot (PDF)]({{< baseurl >}}/resources/mit21l_460f13_strybrd_plot), [Le Morte Analysis Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_le_morte_anl) (Courtesy of Rachael Aptowitz. Used with permission.)
+Malory Storyboard Project by Rachael Aptowitz: {{% resource_link 8cf0cf38-94e4-e61a-9295-1e0e630a02b4 "Le Morte Storyboard (PDF - 1.3MB)" %}}, {{% resource_link da0ce924-956a-87a8-557e-be21c6b68a66 "Le Morte Storyboard Plot (PDF)" %}}, {{% resource_link aa056a8a-cc54-d148-b952-4035cf942bcd "Le Morte Analysis Report (PDF)" %}} (Courtesy of Rachael Aptowitz. Used with permission.)
 
-Malory Visual Map Project by an anonymous student: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Malory Visual Map (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_vs_map), [Malory - Was Justice Served? Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_was) (Courtesy of an anonymous MIT student. Used with permission.)
+Malory Visual Map Project by an anonymous student: {{% resource_link a8f7fe9a-7b83-5f42-9cf4-355223cf36b1 "Malory Visual Map (PDF)" %}}, {{% resource_link 4ca1231c-ab38-6ea3-7600-723e1ea3266f "Malory - Was Justice Served? Report (PDF)" %}} (Courtesy of an anonymous MIT student. Used with permission.)
