@@ -6,6 +6,7 @@ file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/4ca1231ca
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.460 S14 student project: Malory - Was Justice Served? Report'
 uid: 4ca1231c-ab38-6ea3-7600-723e1ea3266f
 ---
 This resource contains information related to the written report for the visual map final project by an anonymous MIT student. 
-

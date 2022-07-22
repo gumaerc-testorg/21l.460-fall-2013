@@ -6,6 +6,7 @@ file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/a8f7fe9a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.460 S14 student project: Malory Visual Map'
 uid: a8f7fe9a-7b83-5f42-9cf4-355223cf36b1
 ---
 This resource contains information related to the visual map final project by an anonymous MIT student. 
-

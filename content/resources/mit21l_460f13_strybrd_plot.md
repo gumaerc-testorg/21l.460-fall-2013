@@ -6,6 +6,7 @@ file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/da0ce9249
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.460 S14 student project: Le Morte Storyboard Plot'
 uid: da0ce924-956a-87a8-557e-be21c6b68a66
 ---
 This resource contains information related to the storyboard plot for the final project by Rachael Aptowitz. 
-
