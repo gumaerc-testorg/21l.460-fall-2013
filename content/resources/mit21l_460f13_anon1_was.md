@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the written report for
   the visual map final project by an anonymous MIT student. '
-file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/4ca1231cab386ea37600723e1ea3266f_MIT21L_460F13_Anon1_Was.pdf
+file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/4ca1231cab386ea37600723e1ea3266f_MIT21L_460F13_Anon1_Was.pdf
 file_size: 89212
 file_type: application/pdf
 learning_resource_types:
