@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the storyboard final project
   by Rachael Aptowitz. '
-file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/8cf0cf3894e4e61a92951e0e630a02b4_MIT21L_460F13_Storyboard.pdf
+file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/8cf0cf3894e4e61a92951e0e630a02b4_MIT21L_460F13_Storyboard.pdf
 file_size: 944004
 file_type: application/pdf
 learning_resource_types:
