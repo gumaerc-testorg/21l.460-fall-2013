@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/2f00437a5835a584e4d5664d47ce18b9_21L-460_stat-students.png
+file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-legends-of-arthur-fall-2013/2f00437a5835a584e4d5664d47ce18b9_21L-460_stat-students.png
 file_size: 2772
 file_type: image/png
 image_metadata:
