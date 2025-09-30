@@ -9,17 +9,17 @@ title: Readings
 uid: df4d2438-9dc4-7b4c-26d9-1eed4aa4ff98
 ---
 
-\[RA\] = Wilhelm, James J., ed. _The Romance of Arthur: An Anthology of Medieval Texts in Translation_. Vol. 1267. Garland, 1994. ISBN: 9780815315117. \[Preview with [Google Books](http://books.google.com/books?id=iN6dg0D0gu0C&pg=PAfrontcover)\]
+\[RA\] = Wilhelm, James J., ed. _The Romance of Arthur: An Anthology of Medieval Texts in Translation_. Vol. 1267. Garland, 1994. ISBN: 9780815315117. \[Preview with {{% resource_link "222c7fd9-0f0d-459f-9c6b-901812fece94" "Google Books" %}}\]
 
-\[CT\] =  De Troyes, Chrétien. [_Four Arthurian Romances_ (12{{< sup "th" >}} century)](http://www.gutenberg.org/files/831/831-h/831-h.htm#link2H_4_0005). SMK Books, 2012. ISBN: 9781617205835. \[Preview with [Google Books](http://books.google.com/books?id=waFGMOsQi98C&pg=PAfrontcover)\]
+\[CT\] =  De Troyes, Chrétien. {{% resource_link "70aa809f-1220-40e6-983a-6d975c002d9f" "_Four Arthurian Romances_ (12{{< sup \"th\" >}} century)" %}}. SMK Books, 2012. ISBN: 9781617205835. \[Preview with {{% resource_link "d176e987-cfb4-4855-b1e5-26c678b2bc17" "Google Books" %}}\]
 
-\[Perc\] = ———. _Arthurian Romances_. Penguin Classics, 1991. ISBN: 9780140445213. \[Preview with [Google Books](http://books.google.com/books?id=KtvzObSSUugC&pg=PAfrontcover)\]
+\[Perc\] = ———. _Arthurian Romances_. Penguin Classics, 1991. ISBN: 9780140445213. \[Preview with {{% resource_link "cfed0aa3-4f68-40ad-80f3-d0c9874835a5" "Google Books" %}}\]
 
 \[MF\] = Burgess, Glyn Sheridan. _The Lais of Marie de France: Text and Context_. Penguin Classics, 1999. ISBN: 9780140447590.
 
-\[Bor\] = De Boron, Robert, and Nigel Bryant. _Merlin and the Grail: Joseph of Arimathea, Merlin, Perceval: The Trilogy of Prose Romances Attributed to Robert de Boron_. Vol. 48. BOYE6, 2008. ISBN: 9780859917797. \[Preview with [Google Books](http://books.google.com/books?id=-Mz3sEURhiQC&pg=PAfrontcover)\]
+\[Bor\] = De Boron, Robert, and Nigel Bryant. _Merlin and the Grail: Joseph of Arimathea, Merlin, Perceval: The Trilogy of Prose Romances Attributed to Robert de Boron_. Vol. 48. BOYE6, 2008. ISBN: 9780859917797. \[Preview with {{% resource_link "ce1f9904-3b55-4092-af7c-4938e5580fb4" "Google Books" %}}\]
 
-\[Mal\] = Malory, Thomas. _Le Morte D'Arthur_ (1470). Vol. 1–2. Forgotten Books, 2008. ISBN: 9781606800690. Project Gutenberg, February 2013 [Volume 1](http://www.gutenberg.org/files/1251/1251-h/1251-h.htm) and [Volume 2](http://www.gutenberg.org/files/1252/1252-h/1252-h.htm) (accessed October 15, 2014).
+\[Mal\] = Malory, Thomas. _Le Morte D'Arthur_ (1470). Vol. 1–2. Forgotten Books, 2008. ISBN: 9781606800690. Project Gutenberg, February 2013 {{% resource_link "6e5008c5-bdce-44f8-b09e-d957d1866ef1" "Volume 1" %}} and {{% resource_link "9dee5717-88a1-4b78-b3b0-a58f804b8f26" "Volume 2" %}} (accessed October 15, 2014).
 
 {{< tableopen >}}
 {{< theadopen >}}

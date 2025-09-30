@@ -84,12 +84,12 @@ These must be turned off and not used in class. Most of our classroom time will 
 MIT Literature Statement on Plagiarism
 --------------------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the [MIT Website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the {{% resource_link "bf3152f0-704e-4fea-aa1f-cdd772c24fb9" "MIT Website on Plagiarism" %}}.
 
 Student Support
 ---------------
 
-Please be aware that there is a wide range of resources for anyone who is struggling during the term. Please see [Student Support Services](https://studentlife.mit.edu/s3).
+Please be aware that there is a wide range of resources for anyone who is struggling during the term. Please see {{% resource_link "848c04da-784f-4927-807f-17cae74dc8c7" "Student Support Services" %}}.
 
 Calendar
 --------
